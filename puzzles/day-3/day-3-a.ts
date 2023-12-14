@@ -90,7 +90,7 @@ const getStartingPoints = (grid: string[]) => {
 			}
 		}
 	}
-	console.log(points)
+
 	return points
 }
 
